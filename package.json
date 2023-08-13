@@ -14,7 +14,7 @@
   },
   "scripts": {
     "storybook": "sb dev",
-    "build-storybook": "sb build",
+    "build-storybook": "sb build -o docs",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
